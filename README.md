@@ -1,7 +1,7 @@
 # My Market — product catalogue photos
 
 Small product photos (320 px, WebP) used by the My Market shop app's product search.
-Served by GitHub Pages at `https://amanbhandari101.github.io/my-market-catalog/p/<id>.webp`,
+Served through jsDelivr at `https://cdn.jsdelivr.net/gh/AmanBhandari101/my-market-catalog@main/p/<id>.webp`,
 where `<id>` is `bc-<barcode>` for packaged products.
 
 ## Sources and licences
